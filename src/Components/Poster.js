@@ -55,7 +55,7 @@ const Poster = ({id, title, rating, year, poster}) => {
         <Container>
             <ImageContainer>
                 <Image
-                    bgurl={poster !== null ? `https://image.tmdb.org/t/p/w500${poster}` : require("../assets/noimage.png")}
+                    bgurl={poster !== null ? `https://image.tmdb.org/t/p/w500${poster}` : require("../assets/download.jpg")}
                 />
                 <Rating>⭐ {rating} / 10</Rating>
             </ImageContainer>

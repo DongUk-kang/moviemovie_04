@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Section from "../../Compnents/Section";
-import Poster from "../../Compnents/Poster";
-import Loading from "../../Compnents/Loading";
+import Section from "../../Components/Section";
+import Poster from "../../Components/Poster";
+import Loading from "../../Components/Loading";
 import styled from "styled-components";
 
 const Container = styled.div`

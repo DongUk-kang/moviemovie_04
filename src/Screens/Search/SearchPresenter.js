@@ -1,9 +1,9 @@
 import React from 'react';
 import styled from "styled-components";
 import PropTypes from 'prop-types';
-import Poster from "../../Compnents/Poster";
-import Section from "../../Compnents/Section";
-import Loading from "../../Compnents/Loading";
+import Poster from "../../Components/Poster";
+import Section from "../../Components/Section";
+import Loading from "../../Components/Loading";
 
 const Container = styled.div`
   padding-top: 0px 20px;
